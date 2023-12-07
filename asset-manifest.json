@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GaydoshPortfolio/static/css/main.f855e6bc.css",
-    "main.js": "/GaydoshPortfolio/static/js/main.fbc3a4d4.js",
-    "static/js/787.7da95b79.chunk.js": "/GaydoshPortfolio/static/js/787.7da95b79.chunk.js",
-    "static/media/logo.svg": "/GaydoshPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/GaydoshPortfolio/index.html",
-    "main.f855e6bc.css.map": "/GaydoshPortfolio/static/css/main.f855e6bc.css.map",
-    "main.fbc3a4d4.js.map": "/GaydoshPortfolio/static/js/main.fbc3a4d4.js.map",
-    "787.7da95b79.chunk.js.map": "/GaydoshPortfolio/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/GaydoshPorfolio/static/css/main.f855e6bc.css",
+    "main.js": "/GaydoshPorfolio/static/js/main.f57fac35.js",
+    "static/js/787.7da95b79.chunk.js": "/GaydoshPorfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/logo.svg": "/GaydoshPorfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GaydoshPorfolio/index.html",
+    "main.f855e6bc.css.map": "/GaydoshPorfolio/static/css/main.f855e6bc.css.map",
+    "main.f57fac35.js.map": "/GaydoshPorfolio/static/js/main.f57fac35.js.map",
+    "787.7da95b79.chunk.js.map": "/GaydoshPorfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.fbc3a4d4.js"
+    "static/js/main.f57fac35.js"
   ]
 }
