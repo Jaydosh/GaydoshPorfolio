@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GaydoshPortfolio/static/css/main.416512fc.css",
+    "main.css": "/GaydoshPortfolio/static/css/main.47243dfd.css",
     "main.js": "/GaydoshPortfolio/static/js/main.611f7610.js",
     "static/js/787.7da95b79.chunk.js": "/GaydoshPortfolio/static/js/787.7da95b79.chunk.js",
     "static/media/home.png": "/GaydoshPortfolio/static/media/home.3b00c6816d196f090b75.png",
     "static/media/pattern4.jpg": "/GaydoshPortfolio/static/media/pattern4.68cd676db920297eb5d5.jpg",
     "index.html": "/GaydoshPortfolio/index.html",
-    "main.416512fc.css.map": "/GaydoshPortfolio/static/css/main.416512fc.css.map",
+    "main.47243dfd.css.map": "/GaydoshPortfolio/static/css/main.47243dfd.css.map",
     "main.611f7610.js.map": "/GaydoshPortfolio/static/js/main.611f7610.js.map",
     "787.7da95b79.chunk.js.map": "/GaydoshPortfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.416512fc.css",
+    "static/css/main.47243dfd.css",
     "static/js/main.611f7610.js"
   ]
 }
