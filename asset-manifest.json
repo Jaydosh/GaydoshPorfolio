@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/GaydoshPortfolio/static/css/main.d990e361.css",
-    "main.js": "/GaydoshPortfolio/static/js/main.b53029a6.js",
+    "main.css": "/GaydoshPortfolio/static/css/main.17584648.css",
+    "main.js": "/GaydoshPortfolio/static/js/main.82d997a9.js",
     "static/js/787.7da95b79.chunk.js": "/GaydoshPortfolio/static/js/787.7da95b79.chunk.js",
-    "static/media/home.png": "/GaydoshPortfolio/static/media/home.3b00c6816d196f090b75.png",
     "static/media/pattern4.jpg": "/GaydoshPortfolio/static/media/pattern4.68cd676db920297eb5d5.jpg",
     "index.html": "/GaydoshPortfolio/index.html",
-    "main.d990e361.css.map": "/GaydoshPortfolio/static/css/main.d990e361.css.map",
-    "main.b53029a6.js.map": "/GaydoshPortfolio/static/js/main.b53029a6.js.map",
+    "main.17584648.css.map": "/GaydoshPortfolio/static/css/main.17584648.css.map",
+    "main.82d997a9.js.map": "/GaydoshPortfolio/static/js/main.82d997a9.js.map",
     "787.7da95b79.chunk.js.map": "/GaydoshPortfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d990e361.css",
-    "static/js/main.b53029a6.js"
+    "static/css/main.17584648.css",
+    "static/js/main.82d997a9.js"
   ]
 }
